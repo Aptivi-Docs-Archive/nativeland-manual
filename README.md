@@ -4,6 +4,10 @@ description: Welcome to NativeLand!
 
 # 👋 Welcome
 
+{% hint style="info" %}
+This library is going to be replaced soon, and this manual is not updated for version 2.0.0. Refer to the SpecProbe manual for more info about the merger.
+{% endhint %}
+
 Welcome to NativeLand! It's a C# library that allows you to load native libraries for all the platforms and CPU architectures. It supports .NET Framework 4.8 and .NET Core 3.1 or higher.
 
 To use this library, go to any page in the left side of the screen.
